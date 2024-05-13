@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+
+@media screen  {
+    
+}
+
+
+p{
+    padding-left: 19px;
+}
+
+header{
+    text-align: center;
+    font-family: passion one;
+    background-color: black;
+    color: azure;
+    background-size: cover;
+    width: 100v;
+    height: 24vh;
+    
+}
+h1{
+font-size: 3em;
+padding-top: 30px;
+margin-top: 0px;
+margin: auto;
+
+}
+body{
+    margin: 0px;
+    
+}
+section {
+    font-size: 1.2em;
+    padding-left: 25px;
+    font-family: sriracha;
+    line-height: 2em;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+#backgimg1{
+    width: 400vh;
+    height: 400px;
+    background-attachment: fixed;
+    background-image: url(img/background001.jpg);
+    background-position:  right center ;
+    background-size: cover;
+}
+
+#img2{
+    
+    width: 400vh;
+    height: 400px;
+    background-attachment: fixed;
+    background-image: url(img/background002.jpg);
+    background-position:  right center ;
+    background-size: cover;
+    
+
+}
+
+.gradient{
+    background-color: rgba(49, 35, 17, 0.274);
+    text-align: justify;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    color: white;
+    margin: auto;
+    
+}
+
+footer{
+    background-color: black;
+    color: rgba(243, 227, 83, 0.527);
+    font-family: passion one;
+    text-align: center;
+    padding: 10px;
+}
